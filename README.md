@@ -1,5 +1,8 @@
 # Software-University-Fundamentals
-# May 2021
+May 2021 
+Dimo Georgiev / Desislava Topuzakova
+
+
 # Themes Included: 
 
 1. Resources
