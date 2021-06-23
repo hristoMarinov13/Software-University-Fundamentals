@@ -3,7 +3,7 @@ May 2021
 Dimo Georgiev / Desislava Topuzakova
 
 
-# Themes Included: 
+ Themes Included: 
 
 1. Resources
 2. IT Talks
